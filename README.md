@@ -44,3 +44,7 @@ c. Modélisation d’un CNN :
 
 Il aurait été possible à la place d’un CNN d’utiliser une architecture hybride : CNN-LSTM.
 Le CNN permettrait d’extraire les features nécessaires et le LSTM permettrait d’analyser, mémoriser la séquence de frames et ainsi permettre de déterminer la posture que le pepper va adopter et ainsi cela permettrait d’être dans une sorte d’anticipation, et donc aller vers de l’optimisation dans la réaction du pepper aux différentes postures du pepper visible.
+
+## Video : 
+
+Démonstration vidéo dans le fichier **demonstration.mp4**
