@@ -2,6 +2,8 @@
 
 Un pepper bouge aléatoirement ou par l’interaction d’un humain. Un second pepper, immobile, réagit aux différentes postures du premier qu’il reconnaît grâce à sa caméra frontale.
 
+Mots Clés : python, qibullet, pickle, vision, machine learning
+
 ## Fonctionnement :
 
   1. Création d’une dataset d’entraînement et de test :
